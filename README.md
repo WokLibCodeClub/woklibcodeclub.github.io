@@ -8,3 +8,12 @@ The projects in this github are mostly Python:
 
 * Python-clock
 
+* LetterA
+
+* Snake
+
+* breakout
+
+* froggit
+
+* rocket
