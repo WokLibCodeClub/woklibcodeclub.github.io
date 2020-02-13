@@ -6,7 +6,7 @@ We code using Scratch and Python mainly, with some of the Python projects based 
 
 The projects in this github are mostly Python:
 
-* Python-clock
+* ## Python-clock
 
 * LetterA
 
