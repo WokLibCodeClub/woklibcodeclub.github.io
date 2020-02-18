@@ -8,7 +8,7 @@ The projects in this github are mostly Python:
 
 * ### Python-clock
 
-The clock in our classroom broke down - actually it only needed a new battery, but it was an excuse to use Python to develop a clock. There are two clocks, both using turtles: a digital clock where a turtle writes the time, then an analogue with turtles for the moving hands. (At the time of writing - Feb 2020 - the last stage still needs to be completed.)
+The clock in our classroom broke down - actually it only needed a new battery, but it was an excuse to use Python to develop a clock. There are two clocks, both using turtles: a digital clock where a turtle writes the time, then an analogue with turtles for the moving hands.
 
 The instructions are in this project, but there are lots of gaps where the coder needs to work out how to make the clock work properly.
 
