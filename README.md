@@ -6,6 +6,10 @@ We code using Scratch and Python mainly, with some of the Python projects based 
 
 The projects in this github are mostly Python:
 
+* ### Rock-Paper-Scissors-with-Turtles
+
+Several of our young coders have worked on the Rock Paper Scissors Python project offered by the Raspberry Pi Foundation, but their version is entirely text based. This version is graphical, and uses turtles to show the different hand shapes. The final version lets the user select which hand shape to play by clicking on turtles. 
+
 * ### Python-clock
 
 The clock in our classroom broke down - actually it only needed a new battery, but it was an excuse to use Python to develop a clock. There are two clocks, both using turtles: a digital clock where a turtle writes the time, then an analogue with turtles for the moving hands.
