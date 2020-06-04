@@ -26,7 +26,7 @@ This is a development of the LetterA project, using Pygame Zero to produce a str
 
 * ### breakout
 
-This project recreates the 1980s arcade game using Pygame Zero. It builds up the code in small steps, introducing new Pygame Zero commands one at a time.
+This project recreates the 1970s arcade game using Pygame Zero. It builds up the code in small steps, introducing new Pygame Zero commands one at a time.
 
 * ### froggit
 
