@@ -6,6 +6,10 @@ We code using Scratch and Python mainly, with some of the Python projects based 
 
 The projects in this github are mostly Python:
 
+* ### CodeClubOnline
+
+In common with many other Code Clubs we shifted our activities online during the Coronavirus lockdown. We ran sessions twice a month each session consisting of a Scratch tutorial and a Python tutorial. We made video summaries of these sessions and put them on YouTube. This repository contains the links to all the summary videos. You can follow the projects through if you want.
+
 * ### Rock-Paper-Scissors-with-Turtles
 
 Several of our young coders have worked on the Rock, Paper, Scissors Python project offered by the Raspberry Pi Foundation, but their version is entirely text based. This version is graphical, and uses turtles to show the different hand shapes. The final version lets the user select which hand shape to play by clicking on turtles. 
