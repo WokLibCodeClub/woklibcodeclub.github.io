@@ -20,6 +20,14 @@ The clock in our classroom broke down - actually it only needed a new battery, b
 
 The instructions are in this project, but there are lots of gaps where the coder needs to work out how to make the clock work properly.
 
+* ### Space Race
+
+This is a based on an old arcade game. The player has to control a rocket and move it from the bottom to the top of the screen while avoiding asteroids which are coming from left and right. The asteroids and the rocket are Python turtles. The instructions show how to build up the game using trinket, but the same code will work in any Python editor.
+
+* ### Hangman
+
+This is a version of the word-guessing game Hangman, which is more than 100 years old (but before computers were invented people had to play using pen and pencil). The instructions show how to build up the game using trinket; the code will work in other Python editors, except that the clear screen function does not act in exactly the same way in every editor.
+
 * ### LetterA
 
 This is a very detailed introduction to Pygame Zero, going in small steps through the process of displaying and moving a text box around the screen. It develops into a game for two players at one computer, with letters chasing each other around the screen.
