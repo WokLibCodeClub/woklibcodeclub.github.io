@@ -34,7 +34,7 @@ This is a very detailed introduction to Pygame Zero, going in small steps throug
 
 * ### Snake
 
-This is a development of the LetterA project, using Pygame Zero to produce a string of letters which follow each other around the screen like a snake. There is a lot on Python lists in this project. (At the time of writing - Feb 2020 - the last few stages still need to be completed.)
+This is a development of the LetterA project, using Pygame Zero to produce a string of letters which follow each other around the screen like a snake. There is a lot on Python lists in this project. (At the time of writing - Dec 2020 - the instructions for the last few stages have yet to be completed.)
 
 * ### breakout
 
