@@ -12,7 +12,7 @@ In common with many other Code Clubs we shifted our activities online during the
 
 * ### Rock-Paper-Scissors-with-Turtles
 
-Several of our young coders have worked on the Rock, Paper, Scissors Python project offered by the Raspberry Pi Foundation, but their version is entirely text based. This version is graphical, and uses turtles to show the different hand shapes. The final version lets the user select which hand shape to play by clicking on turtles. 
+Several of our young coders have worked on the [Rock, Paper, Scissors](https://projects.raspberrypi.org/en/projects/rock-paper-scissors) Python project offered by the Raspberry Pi Foundation, but their version is entirely text based. This version is graphical, and uses turtles to show the different hand shapes. The final version lets the user select which hand shape to play by clicking on turtles. 
 
 * ### Python-clock
 
