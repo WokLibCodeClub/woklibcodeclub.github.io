@@ -26,7 +26,7 @@ This is a Python programme based on an old arcade game. The player has to contro
 
 * ### Hangman
 
-This is a Python version of the word-guessing game Hangman, which is more than 100 years old (but before computers were invented people had to play using pen and pencil). The instructions show how to build up the game using trinket; the code will work in other Python editors, except that the clear screen function does not act in exactly the same way in every editor.
+This is a Python version of the word-guessing game Hangman, which is more than 100 years old (but before computers were invented people had to play using paper and pencil). The instructions show how to build up the game using trinket; the code will work in other Python editors, except that the clear screen function does not act in exactly the same way in every editor.
 
 * ### LetterA
 
