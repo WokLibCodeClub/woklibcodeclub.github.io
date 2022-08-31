@@ -4,11 +4,11 @@ These are projects we have used with 9-12 year old children at our Code Club in 
 
 We code using Scratch and Python mainly, with some of the Python projects based on the PyGame Zero library.
 
-The projects in this github are mostly Python:
+The repositories in this github are mostly Python but there are many Scratch projects in the OnlineCodeclub section:
 
 * ### OnlineCodeclub 
 
-In common with many other Code Clubs we shifted our activities online during the Coronavirus lockdown. We ran sessions twice a month each session consisting of a Scratch tutorial and a Python tutorial. We made video summaries of these sessions and put them on YouTube. This repository contains the links to all the summary videos. You can follow the projects through if you want.
+In common with many other Code Clubs we shifted our activities online during the Coronavirus restrictions. We ran sessions twice a month, with a Scratch tutorial and a Python tutorial each session. We made video summaries of these sessions and put them on YouTube. This repository contains the links to all the summary videos. You can follow the projects through if you want.
 
 * ### Rock-Paper-Scissors-with-Turtles
 
@@ -32,9 +32,9 @@ This is a Python version of the word-guessing game Hangman, which is more than 1
 
 This is a very detailed introduction to Pygame Zero, going in small steps through the process of displaying and moving a text box around the screen. It develops into a game for two players at one computer, with letters chasing each other around the screen.
 
-* ### Snake
+* ### WordSnake
 
-This is a development of the LetterA project, using Pygame Zero to produce a string of letters which follow each other around the screen like a snake. There is a lot on Python lists in this project. (At the time of writing - Dec 2020 - the instructions for the last few stages have yet to be completed.)
+This is a development of the LetterA project, using Pygame Zero to produce a string of letters which follow each other around the screen like a snake. There is a lot on Python lists in this project. (At the time of writing - Aug 2022 - the instructions for the last few stages have yet to be completed.)
 
 * ### breakout
 
