@@ -6,27 +6,27 @@ We code using Scratch and Python mainly, with some of the Python projects based 
 
 The repositories in this github are mostly Python but there are many Scratch projects in the OnlineCodeclub section:
 
-* ### [OnlineCodeclub](https://github.com/WokLibCodeClub/OnlineCodeclub) 
+* ### [Online Code Club](https://github.com/WokLibCodeClub/OnlineCodeclub) 
 
 In common with many other Code Clubs we shifted our activities online during the Coronavirus restrictions. We ran sessions twice a month, with a Scratch tutorial and a Python tutorial each session. We made video summaries of these sessions and put them on YouTube. This repository contains the links to all the summary videos. You can follow the projects through if you want.
 
-* ### [OurWebsite](https://github.com/WokLibCodeClub/OurWebsite) 
+* ### [Our Website](https://github.com/WokLibCodeClub/OurWebsite) 
 
 During our period of operating online we devoted some sessions to very basic HTML programming, and developing a very simple website. In this repository you can have a look at the different .html files we built up, and also look at how these would look on a real live website by following the link.
 
-* ### [Using-Pygame-Zero](https://github.com/WokLibCodeClub/Using-Pygame-Zero) 
+* ### [Using Pygame Zero](https://github.com/WokLibCodeClub/Using-Pygame-Zero) 
 
 Here you will find instructions on how to install PygameZero on your computer and incorporate it into your Python projects.
 
-* ### [Install-Python](https://github.com/WokLibCodeClub/Install-Python) 
+* ### [Install Python](https://github.com/WokLibCodeClub/Install-Python) 
 
 These are some (rather out of date) instructions for installing a version of Python on your own computer.
 
-* ### [Rock-Paper-Scissors-with-Turtles](https://github.com/WokLibCodeClub/Rock-Paper-Scissors-with-Turtles) 
+* ### [Rock Paper Scissors with Turtles](https://github.com/WokLibCodeClub/Rock-Paper-Scissors-with-Turtles) 
 
 Several of our young coders have worked on the [Rock, Paper, Scissors](https://projects.raspberrypi.org/en/projects/rock-paper-scissors) Python project offered by the Raspberry Pi Foundation, but their version is entirely text based. This version is graphical, and uses turtles to show the different hand shapes. The final version lets the user select which hand shape to play by clicking on turtles. 
 
-* ### [Python-Clock](https://github.com/WokLibCodeClub/Python-Clock) 
+* ### [Python Clock (two versions)](https://github.com/WokLibCodeClub/Python-Clock) 
 
 The clock in our classroom broke down - actually it only needed a new battery, but it was an excuse to use Python to develop a clock. There are two clocks, both using turtles: a digital clock where a turtle writes the time, then an analogue with turtles for the moving hands.
 
@@ -60,7 +60,7 @@ This is a Pygame Zero frog chasing game, but the instructions are rather sparse,
 
 This is a Pygame Zero space zapping game, again with rather sparse instructions. Not for beginners.
 
-* ### [Traffic-Lights-Crossroads-and-Cars](https://github.com/WokLibCodeClub/Traffic-Lights-Crossroads-and-Cars)
+* ### [Traffic Lights, Crossroads and Cars](https://github.com/WokLibCodeClub/Traffic-Lights-Crossroads-and-Cars)
 
 This is an advanced Scratch project to use programmed traffic lights to control the flow of traffic across a junction.
 
