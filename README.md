@@ -10,6 +10,10 @@ The repositories in this github are mostly Python but there are many Scratch pro
 
 In common with many other Code Clubs we shifted our activities online during the Coronavirus restrictions. We ran sessions twice a month, with a Scratch tutorial and a Python tutorial each session. We made video summaries of these sessions and put them on YouTube. This repository contains the links to all the summary videos. You can follow the projects through if you want.
 
+* ### [OurWebsite](https://github.com/WokLibCodeClub/OurWebsite) 
+
+During our period of operating online we devoted some sessions to very basic HTML programming, and developing a very simple website. In this repository you can have a look at the different .html files we built up, and also look at how these would look on a real live website by following the link.
+
 * ### Rock-Paper-Scissors-with-Turtles
 
 Several of our young coders have worked on the [Rock, Paper, Scissors](https://projects.raspberrypi.org/en/projects/rock-paper-scissors) Python project offered by the Raspberry Pi Foundation, but their version is entirely text based. This version is graphical, and uses turtles to show the different hand shapes. The final version lets the user select which hand shape to play by clicking on turtles. 
