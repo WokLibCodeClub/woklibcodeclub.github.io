@@ -18,11 +18,7 @@ During our period of operating online we devoted some sessions to very basic HTM
 
 Here you will find instructions on how to install PygameZero on your computer and incorporate it into your Python projects.
 
-* ### [OurWebsite](https://github.com/WokLibCodeClub/OurWebsite) 
-
-During our period of operating online we devoted some sessions to very basic HTML programming, and developing a very simple website. In this repository you can have a look at the different .html files we built up, and also look at how these would look on a real live website by following the link.
-
-* ### Rock-Paper-Scissors-with-Turtles
+* ### [Rock-Paper-Scissors-with-Turtles](https://github.com/WokLibCodeClub/Rock-Paper-Scissors-with-Turtles) 
 
 Several of our young coders have worked on the [Rock, Paper, Scissors](https://projects.raspberrypi.org/en/projects/rock-paper-scissors) Python project offered by the Raspberry Pi Foundation, but their version is entirely text based. This version is graphical, and uses turtles to show the different hand shapes. The final version lets the user select which hand shape to play by clicking on turtles. 
 
