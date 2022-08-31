@@ -40,7 +40,7 @@ This is a Python programme based on an old arcade game. The player has to contro
 
 This is a Python version of the word-guessing game Hangman, which is more than 100 years old (but before computers were invented people had to play using paper and pencil). The instructions show how to build up the game using trinket; the code will work in other Python editors, except that the clear screen function does not act in exactly the same way in every editor.
 
-* ### [Lette rA](https://github.com/WokLibCodeClub/LetterA)
+* ### [Letter A](https://github.com/WokLibCodeClub/LetterA)
 
 This is a very detailed introduction to Pygame Zero, going in small steps through the process of displaying and moving a text box around the screen. It develops into a game for two players at one computer, with letters chasing each other around the screen.
 
