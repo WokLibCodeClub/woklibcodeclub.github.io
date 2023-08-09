@@ -6,6 +6,14 @@ We code using Scratch and Python mainly, with some of the Python projects based 
 
 The repositories in this github are mostly Python but there are many Scratch projects in the OnlineCodeclub section:
 
+* ### [Intro-to-Python-Jan-2023](https://github.com/WokLibCodeClub/Intro-to-Python-Jan-2023) 
+
+We resumed in person sessions in Wokingham library (after the Coronavirus restrictions were ended) in January 2023. We had several students in the Python session who had never used Python before, so we ran some teaching sessions covering the basics of Python coding. This repository contains links to trinket projects and other information related to these sessions. 
+
+* ### [WokCC_Snake](https://github.com/WokLibCodeClub/WokCC_Snake) 
+
+After we resumed in-person sessions in Wokingham library we did a "code-along" project, where everybody wrote the code at the same time, to make a Snake game. This was during June and July 2023. This covered three sessions, and for the benefit of students who were unable to attend the sessions we made videos showing the coding that was done at each session. This repository contains the links to the videos and other related information.
+
 * ### [Online Code Club](https://github.com/WokLibCodeClub/OnlineCodeclub) 
 
 In common with many other Code Clubs we shifted our activities online during the Coronavirus restrictions. We ran sessions twice a month, with a Scratch tutorial and a Python tutorial each session. We made video summaries of these sessions and put them on YouTube. This repository contains the links to all the summary videos. You can follow the projects through if you want.
@@ -32,7 +40,7 @@ The clock in our classroom broke down - actually it only needed a new battery, b
 
 The instructions are in this project, but there are lots of gaps where the coder needs to work out how to make the clock work properly.
 
-* ### [Space Race](https://github.com/WokLibCodeClub/SpaceRace)
+* ### [SpaceRace](https://github.com/WokLibCodeClub/SpaceRace)
 
 This is a Python programme based on an old arcade game. The player has to control a rocket and move it from the bottom to the top of the screen while avoiding asteroids which are coming from left and right. The asteroids and the rocket are Python turtles. The instructions show how to build up the game using trinket, but the same code will work in any Python editor.
 
