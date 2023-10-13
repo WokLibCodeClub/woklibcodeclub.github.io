@@ -24,7 +24,7 @@ During our period of operating online we devoted some sessions to very basic HTM
 
 * ### [Using Pygame Zero](https://github.com/WokLibCodeClub/Using-Pygame-Zero) 
 
-Here you will find instructions on how to install PygameZero on your computer and incorporate it into your Python projects.
+Here you will find instructions on how to install PygameZero on your computer and incorporate it into your Python projects. Unfortunately you can't use Pygame Zero functions in trinket, so you will need to install Python on your own computer to take advantage of this.
 
 * ### [Install Python](https://github.com/WokLibCodeClub/Install-Python) 
 
