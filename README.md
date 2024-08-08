@@ -16,7 +16,7 @@ After we resumed in-person sessions in Wokingham library we did a "code-along" P
 
 * ### [Online Code Club](https://github.com/WokLibCodeClub/OnlineCodeclub) 
 
-In common with many other Code Clubs we shifted our activities online during the Coronavirus restrictions. We ran sessions twice a month, with a Scratch tutorial and a Python tutorial each session. We made video summaries of these sessions and put them on YouTube. This repository contains the links to all the summary videos. You can follow the projects through if you want.
+In common with many other Code Clubs we shifted our activities online during the Coronavirus restrictions. We ran sessions twice a month, with a Scratch tutorial and a Python tutorial each session. We made video summaries of these sessions and put them on YouTube. This repository contains the links to all the summary videos. You can follow the projects through if you want. The projects are a mix of Scratch and Python coding.
 
 * ### [Our Website](https://github.com/WokLibCodeClub/OurWebsite) 
 
