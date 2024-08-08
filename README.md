@@ -10,9 +10,9 @@ The repositories in this github are mostly Python but there are many Scratch pro
 
 We resumed in person sessions in Wokingham library (after the Coronavirus restrictions were ended) in January 2023. We had several students in the Python session who had never used Python before, so we ran some teaching sessions covering the basics of Python coding. This repository contains links to trinket projects and other information related to these sessions. 
 
-* ### [WokCC_Snake](https://github.com/WokLibCodeClub/WokCC_Snake) 
+* ### [WokCC_Snake for Python](https://github.com/WokLibCodeClub/WokCC_Snake) 
 
-After we resumed in-person sessions in Wokingham library we did a "code-along" project, where everybody wrote the code at the same time, to make a Snake game. This was during June and July 2023. This covered three sessions, and for the benefit of students who were unable to attend the sessions we made videos showing the coding that was done at each session. This repository contains the links to the videos and other related information.
+After we resumed in-person sessions in Wokingham library we did a "code-along" Python project, where everybody wrote the code at the same time, to make a Snake game. This was during June and July 2023. This covered three sessions, and for the benefit of students who were unable to attend the sessions we made videos showing the coding that was done at each session. This repository contains the links to the videos and other related information.
 
 * ### [Online Code Club](https://github.com/WokLibCodeClub/OnlineCodeclub) 
 
