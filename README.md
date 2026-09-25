@@ -8,4 +8,4 @@ Coding is carried out in [Scratch](https://scratch.mit.edu/) or Python, and Pyth
 
 The other repositories, which you can look at [here](https://github.com/orgs/WokLibCodeClub/repositories?type=all) contain instructions for creating projects and other information. The projects are mostly written in Python, but in the repository called [OnlineCodeclub](https://github.com/WokLibCodeClub/OnlineCodeclub) you can also find some Scratch projects. This repo was created during the Coronavirus pandemic, when the Code Club was operating online. The links in this repo point to YouTube videos which show reconstructions of our online sessions with detailed instructions for building up projects.
 
-The repository called [Hello Python!](https://github.com/WokLibCodeClub/Hello-Python) is a short beginner course in Python coding.
+The repository called [Hello Python](https://github.com/WokLibCodeClub/Hello-Python) is a short beginner course in Python coding.
