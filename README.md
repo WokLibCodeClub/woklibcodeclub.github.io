@@ -14,7 +14,7 @@ The front page - [https://github.com/WokLibCodeClub](https://github.com/WokLibCo
 
 ### About this website
 
-As is normal on github, the information on this site is divided into ***repositories*** and each repository (repo for short) contains all the information for a single coding project, or a group of projects. One repository, called [OnlineCodeclub](https://github.com/WokLibCodeClub/OnlineCodeclub/blob/main/README.md), contains a wide range of Scratch and Python projects, each of which is explained through a series of Youtube videos, and the links to all these videos can be found in the *OnlineCodeClub* repository. (These projects were created while the code club was operating online during the coronavirus restrictions.)
+As is normal on github, the information on this site is divided into ***repositories*** and each repository (repo for short) contains all the information for a single coding project, or a group of projects. One repository, called [OnlineCodeclub](https://github.com/WokLibCodeClub/OnlineCodeclub/blob/main/README.md), contains links to a wide range of Scratch and Python projects, each of which is explained through a series of Youtube videos, and the links to all these videos can be found in the *OnlineCodeClub* repository. (These projects were created while the code club was operating online during the coronavirus restrictions.)
 
 The other repositories contain instructions for creating projects and other information. The projects are mostly written in Python, but in the repository called [OnlineCodeclub](https://github.com/WokLibCodeClub/OnlineCodeclub) you can also find some Scratch projects. 
 
