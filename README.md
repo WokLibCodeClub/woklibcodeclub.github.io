@@ -10,6 +10,10 @@ The other repositories, which you can look at [here](https://github.com/orgs/Wok
 
 The repository called [Hello Python](https://github.com/WokLibCodeClub/Hello-Python) is a short beginner course in Python coding.
 
+We write code on the library's laptops, so you do not need to bring your own computer.
+
+
+
 
 These are the github pages of the **Wokingham Library Code Club**, located in Wokingham, UK and supported by [Wokingham Borough Council](https://www.wokingham.gov.uk/libraries).
 
