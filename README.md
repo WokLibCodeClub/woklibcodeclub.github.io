@@ -4,7 +4,7 @@ These are the github pages of the **Wokingham Library Code Club**, located in Wo
 
 The club is for children aged 9 to 13, and we run twice a month in Wokingham Library, on the first and last Saturday of each month, with an early session mostly for Scratch coding followed by a later session for Python coding.
 
-Students wishing to join the Code Club will need to register with Wokingham library. For information about registering and any other enquiries about the Code Club please contact Wokingham library: libraryevents@wokingham.gov.uk Coding is carried out in [Scratch](https://scratch.mit.edu/) or Python, and Python code is created with the online editor [trinket](https://trinket.strivemath.org/).
+Students wishing to join the Code Club will need to register with Wokingham library. For information about registering and any other enquiries about the Code Club please contact Wokingham library: libraryevents@wokingham.gov.uk. Coding is carried out in [Scratch](https://scratch.mit.edu/) or Python, and Python code is created with the online editor [trinket](https://trinket.strivemath.org/).
 
 We write code on the library's laptops, so you do not need to bring your own computer.
 
